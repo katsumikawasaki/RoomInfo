@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RoomInfo</Text>
+    <Description>Command RoomInfo</Description>
+    <Assembly>RoomInfo.dll</Assembly>
+    <FullClassName>RoomInfo.Command</FullClassName>
+    <ClientId>965f6fff-a960-4c23-8e5b-c01ed51d9a94</ClientId>
+    <VendorId>kawasaki</VendorId>
+    <VendorDescription>kawasaki</VendorDescription>
+  </AddIn>
+
+</RevitAddIns>
